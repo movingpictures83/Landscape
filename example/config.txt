@@ -1,0 +1,2 @@
+Prefix plugins/Landscape/example
+Plugin Landscape inputfile parameters.txt outputfile landscape
